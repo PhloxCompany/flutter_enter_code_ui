@@ -1,16 +1,24 @@
-# flutter_enter_code_ui_08
+# Flutter EnterCode Page
 
-A new Flutter project.
 
-## Getting Started
+![Flutter EnterCode Ui](./assets/images/image1.gif?raw=true "Optional Title")
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+#ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Flutter EnterCode Ui](./assets/images/image2.png?raw=true "Optional Title")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br><br>
+[Watch it on Youtube](https://youtube.com)
+
+
+## Links
+
+* [Website](https://phloxcompany.com)
+* [Youtube channel](https://www.youtube.com/channel/UC6sTNoJi_G_O5lNzc6JgLew)
+* [Twitter](https://twitter.com/phloxcompany)
+* [Instagram](https://instagram.com/phloxcompany)
