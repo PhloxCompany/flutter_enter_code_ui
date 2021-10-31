@@ -8,7 +8,7 @@ flutter pub get
 flutter run
 ```
 
-#ScreenShots
+# ScreenShots
 
 <img alt="Flutter Beautiful EnterCode Ui" src="./assets/images/image2.png" height="512em"/>
 
