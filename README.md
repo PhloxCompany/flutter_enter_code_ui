@@ -10,7 +10,7 @@ flutter run
 
 #ScreenShots
 
-![Flutter EnterCode Ui](./assets/images/image2.png?raw=true "Optional Title")
+<img alt="Flutter Beautiful EnterCode Ui" src="./assets/images/image2.png" height="512em"/>
 
 <br><br>
 [Watch it on Youtube](https://youtube.com)
