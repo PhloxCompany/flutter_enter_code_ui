@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   lottie: ^1.2.1
   flutter_verification_code: ^1.1.0
+  phlox_animations: ^0.0.2
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
